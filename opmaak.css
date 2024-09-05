@@ -2,7 +2,7 @@ body {background-color: pink;}
 ul{
     list-style-type: none;
     margin: 8;
-    padding: 0;
+    padding: 8;
     overflow: hidden;
     width: 100%;
 }
