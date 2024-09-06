@@ -30,3 +30,8 @@ h1{
 p{
     color: black;
 }
+
+img{ 
+    max-width: 20%;
+    height: auto;
+}
