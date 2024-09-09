@@ -36,5 +36,5 @@ img{
     height: 20%;
 }
 li a:hover{ 
-    background-color: pink;/*als je met je muis op menu gaat ktijgt het kleur*/
+    background-color: rgb(244, 161, 175);/*als je met je muis op menu gaat ktijgt het kleur*/
 }
