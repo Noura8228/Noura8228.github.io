@@ -35,3 +35,6 @@ img{
     max-width: 20%;
     height: 20%;
 }
+li a:hover{ 
+    background-color: pink;/*als je met je muis op menu gaat ktijgt het kleur*/
+}
