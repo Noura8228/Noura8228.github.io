@@ -7,7 +7,7 @@ body {background-color: pink;}
 li{
     float: left;
 }
-li a{
+a{
     display: block;
     padding: 14px 16px;
     background-color: palevioletred;
