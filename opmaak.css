@@ -7,8 +7,8 @@ body {background-color: pink;
 
 ul{ 
     list-style-type: none;
-    padding: 0%;
-    margin: 1%;
+    padding: 0;
+    margin: 0;
     width: 100%;
     background-color: palevioletred;
 } /*menu opmaak*/
