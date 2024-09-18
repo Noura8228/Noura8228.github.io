@@ -7,8 +7,8 @@ body {background-color: pink;
 
 ul{ 
     list-style-type: none;
-    padding: 0;
-    margin: 0;
+    padding: 2;
+    margin: 2;
     width: 100%;
     background-color: palevioletred;
     overflow: hidden;
