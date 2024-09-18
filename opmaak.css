@@ -10,7 +10,7 @@ ul{
     padding: 2;
     margin: 2;
     width: 100%;
-    background-color: palevioletred;
+    background-color: #d87f81;
     overflow: hidden;
 } /*menu opmaak*/
 
@@ -20,7 +20,7 @@ li{
 li a {
     display: block;
     padding: 14px 16px;
-    background-color: palevioletred;
+    background-color: #d87f81;
     text-decoration: pink;
     text-align: center;
     color: white;
