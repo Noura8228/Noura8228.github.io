@@ -11,6 +11,7 @@ ul{
     margin: 0;
     width: 100%;
     background-color: palevioletred;
+    overflow: hidden;
 } /*menu opmaak*/
 
 li{
