@@ -5,11 +5,11 @@ body {background-color: pink;
     overflow: hidden;
 }
 
-ul{
+ul{ 
     list-style-type: none;
     padding: 0%;
     margin: 5%;
-}
+} /*menu opmaak*/
 
 li{
     float: left;
