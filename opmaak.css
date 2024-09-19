@@ -45,7 +45,8 @@ p{
 .intro {
     width: 40%;
     border: #ae6378;
-    background-color: #ae6378;
+    background-color: #d87f81;
+    color: pink;
     font-family: 'Times New Roman', Times, serif;
     padding: 4;
     margin-left: 4;
