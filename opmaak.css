@@ -41,6 +41,13 @@ p{
     color: #000000;
 }
 
+.intro {
+    width: 50%;
+    border: #7e9680;
+    background-color: #7e9680;
+    padding: 2;
+    margin-left: 0;
+} /*de opmaak van mijn stukje tekst*/ 
 img{ 
     max-width: 20%;
     height: 20%;
