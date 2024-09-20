@@ -30,7 +30,7 @@ li a {
 
 
 h1{
-    text-shadow: 1px 1px 2px #ce446b, 0 0 25px #9f283e, 0 0 5px #ae6378;
+    text-shadow: 3px 3px 4px #ce446b, 0 0 25px #9f283e, 0 0 5px #ae6378;
     margin-left: 550px;
     color: rgb(237, 155, 155);
 }
@@ -47,7 +47,7 @@ p{
     width: 40%;
     border: #ae6378;
     background-color: #d87f81;
-    color: pink;
+    color: white;
     font-family: 'Times New Roman', Times, serif;
     padding: 9px;
     margin-left: 9;
@@ -58,7 +58,7 @@ p{
 width: 70%;
 border: #d87f81;
 background-color: #d87f81;
-color: #79616f;
+color: white;
 font-style: 'Times New Roman', Times, serif;
 padding: 9px;
 margin-left: 9px;
