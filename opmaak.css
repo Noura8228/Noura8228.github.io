@@ -56,7 +56,7 @@ p{
 .kleurmodellenuitleg {
 width: 70%;
 border: #d87f81;
-background-color: #d87f81;
+background-color: pink;
 color: #79616f;
 font-style: 'Times New Roman', Times, serif;
 padding: 9;
@@ -68,6 +68,7 @@ img{
     max-width: 20%;
     height: 20%;
 } /*de grootte van mijn plaatjes*/
+
 li a:hover{ 
     background-color: #9f283e;/*als je met je muis op menu gaat ktijgt het kleur*/
 }
