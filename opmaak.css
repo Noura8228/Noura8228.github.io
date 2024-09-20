@@ -64,7 +64,10 @@ padding: 9;
 margin-left: 9;
 border-radius: 10px;
 }
-
+.image {
+    height: 120px;
+    width: 120px;
+}
 li a:hover{ 
     background-color: #9f283e;/*als je met je muis op menu gaat ktijgt het kleur*/
 }
