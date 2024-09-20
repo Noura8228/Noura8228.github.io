@@ -64,10 +64,10 @@ padding: 9;
 margin-left: 9;
 border-radius: 10px;
 }
-/*
+
 img {
-    max-height: 20%;
-    max-width: 20%;
+    max-height: 120%;
+    max-width: 120%;
   } /*de grootte van mijn plaatjes*/
 
 li a:hover{ 
