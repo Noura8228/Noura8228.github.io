@@ -67,8 +67,8 @@ border-radius: 10px;
 
 
 .image {
-    height: 120px;
-    width: 120px;
+    height: 20%;
+    width: 20%;
     image-rendering: auto;
   } /*de grootte van mijn plaatjes*/
 
