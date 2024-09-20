@@ -65,16 +65,11 @@ margin-left: 9;
 border-radius: 10px;
 }
 
-img{ 
-    max-width: 20%;
-    height: 20%;
+image{ 
+    max-width: 20px;
+    height: 20px;
 } /*de grootte van mijn plaatjes*/
 
 li a:hover{ 
     background-color: #9f283e;/*als je met je muis op menu gaat ktijgt het kleur*/
 }
-
-
-
-
-
