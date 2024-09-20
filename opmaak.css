@@ -65,11 +65,9 @@ margin-left: 9;
 border-radius: 10px;
 }
 
-
 img {
     max-height: 20%;
     max-width: 20%;
-    image-rendering: auto;
   } /*de grootte van mijn plaatjes*/
 
 li a:hover{ 
