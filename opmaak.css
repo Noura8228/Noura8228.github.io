@@ -1,5 +1,5 @@
 body {background-color: #eab595; 
-    list-style-type: none; /*hbfhzbsjfh*/
+    list-style-type: none;
     margin: 0;
     padding: 20px;
     scroll-behavior: auto;
@@ -35,12 +35,12 @@ h1{
 }
 h3{
     color: #79616f;
-}
+} /*kleur van mijn (h3) kopjes.*/
 
 p{
     color: #000000;
 
-}
+}/*kleur vanmijn tekst.*/ 
 
 .intro {
     width: 40%;
@@ -53,7 +53,7 @@ p{
     border-radius: 10px;
 } /*de opmaak van mijn stukje over mezelf op de home pagina*/ 
 
-.kleurmodellenuitleg {
+/*.kleurmodellenuitleg {
 width: 70%;
 border: #d87f81;
 background-color: #d87f81;
@@ -62,13 +62,14 @@ font-style: 'Times New Roman', Times, serif;
 padding: 9px;
 margin-left: 2px;
 border-radius: 10px;
-}
+} /* de opmaak van mijn uitleg over kleurmodellen eerste stuk*/
+
 img {
     height: 160px;
     width: 160px;
     image-rendering: auto;
     border-radius: 10%;
-}
+} /*opmaak van mijn plaatsjes*/
 li a:hover{ 
     background-color: #9f283e;/*als je met je muis op menu gaat ktijgt het kleur*/
 }
