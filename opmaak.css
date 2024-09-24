@@ -74,9 +74,17 @@ li a:hover{
     background-color: #9f283e;/*als je met je muis op menu gaat ktijgt het kleur*/
 }
 
-tr:nth-child(even) {
-    background-color: #D6EEEE;
-  }/* dit zorgt ervoor dat er bij mijn tabel een gekleurde achtergrond is bij de rijen, omstebeurt.*/
   tr {
     border-bottom: 1px solid #ddd;
   }
+  th, td {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+  }
+
+tr:nth-child(even) {
+    background-color: #D6EEEE;
+  }/* dit zorgt ervoor dat er bij mijn tabel een gekleurde achtergrond is bij de rijen, omstebeurt.*/
+  
