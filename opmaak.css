@@ -77,4 +77,6 @@ li a:hover{
 tr:nth-child(even) {
     background-color: #D6EEEE;
   }/* dit zorgt ervoor dat er bij mijn tabel een gekleurde achtergrond is bij de rijen, omstebeurt.*/
-  
+  tr {
+    border-bottom: 1px solid #ddd;
+  }
