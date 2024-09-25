@@ -84,6 +84,9 @@ li a:hover{
     padding-right: 40px;
   } /*opmaak tabel, afmetingen hokjes.*/
 
+  footer{
+    background-color: #ae6378;
+  }
   .socialsfooter{
     ul {
         list-style-type: none;
