@@ -56,30 +56,8 @@ p{
     font-size: large;
 } /*de opmaak van mijn stukje over mezelf op de home pagina*/ 
 
-/*.kleurmodellenuitleg {
-width: 70%;
-border: #d87f81;
-background-color: #d87f81;
-color: pink;
-font-style: 'Times New Roman', Times, serif;
-padding: 9px;
-margin-left: 2px;
-border-radius: 10px;
-} /* de opmaak van mijn uitleg over kleurmodellen eerste stuk*/
 
-.button{ 
-  background-color: #7e9680;
-  color: black;
-  border: #9f283e;
-  padding: 15px 32px ;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
 
-}
 img {
     height: 160px;
     width: 160px;
