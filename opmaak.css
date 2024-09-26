@@ -33,9 +33,14 @@ h1{
     color: rgb(237, 155, 155);
     text-align: center;
 }
+h2{
+  text-shadow: 3px 3px 4px #ce446b, 0 0 25px #9f283e, 0 0 10px #ae6378; /*de opmaak van mijn kopjes, met name schaduw*/
+    color: rgb(237, 155, 155);
+}/*opmaak van mijn (h2) kopjes.*/
+
 h3{
     color: #79616f;
-} /*kleur van mijn (h3) kopjes.*/
+} 
 
 p{
     color: #000000;
