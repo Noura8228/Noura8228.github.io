@@ -39,8 +39,8 @@ h3{
 
 
 p{
-    color: #000000;
-
+    color: #000000; /* kleur tekst*/
+    font-size: large; /*grote tekst*/ 
 }/*kleur vanmijn tekst.*/ 
 
 .intro {
@@ -104,4 +104,3 @@ li a:hover{
         text-decoration: none;
       }
     }
-
