@@ -39,12 +39,7 @@ h3{
 }/*opmaak van mijn (h3) kopjes.*/
 
 
-p{
-    color: #000000; /* kleur tekst*/
-    font-size: large; /*grote tekst*/ 
-}/*kleur vanmijn tekst.*/ 
-
-.intro {
+p {
     width: 55%;
     border: #ae6378;
     background-color: #d87f81;
@@ -54,7 +49,7 @@ p{
     margin-left: 2px;
     border-radius: 10px;
     font-size: large;
-} /*de opmaak van mijn stukje over mezelf op de home pagina*/ 
+} /*de opmaak van tekst*/ 
 
 
 
