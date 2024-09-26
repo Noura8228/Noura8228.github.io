@@ -80,4 +80,12 @@ i a:hover{
   }
 .footer{
   color: rgb(245, 211, 216);
+  width: 80%;
+    border: none;
+    background-color: none;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0;
+    margin-left: 0;
+    border-radius: 0;
+    font-size: large;
 }
