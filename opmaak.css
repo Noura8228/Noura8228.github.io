@@ -59,8 +59,7 @@ img {
     image-rendering: auto;
     border-radius: 10%; /*de "ronding" van mijn image*/ 
 } /*opmaak van mijn plaatjes*/
-l
-i a:hover{ 
+li a:hover{ 
     background-color: #9f283e;/*als je met je muis op menu gaat ktijgt het kleur*/
 }
 
