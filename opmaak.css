@@ -35,7 +35,7 @@ h1{
 }
 h2{
   text-shadow: 3px 3px 4px #ce446b, 0 0 25px #9f283e, 0 0 10px #ae6378; /*de opmaak van mijn kopjes, met name schaduw*/
-    color: rgb(237, 155, 155);
+    color: #79616f;
 }/*opmaak van mijn (h2) kopjes.*/
 
 h3{
@@ -48,7 +48,7 @@ p{
 }/*kleur vanmijn tekst.*/ 
 
 .intro {
-    width: 40%;
+    width: 55%;
     border: #ae6378;
     background-color: #d87f81;
     color: pink;
