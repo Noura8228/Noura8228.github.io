@@ -22,7 +22,7 @@ li a {
     display: block;
     padding: 14px 16px;
     background-color: #d87f81; /*achtergrondkleur van menubalk*/
-    text-decoration: pink;
+    text-decoration: pink;/*hierdoor staan er geen streepjes onder de woorden va het menu*/
     text-align: center; /*tekst staat in het midden van het vakje van menu*/
     color: rgb(242, 208, 208); /*kleur van tekst bij menu*/  
 }
@@ -86,6 +86,7 @@ li a:hover{
     background-color: #7e9680;
     text-align: right;
     font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
   }
 .footer{
   color: rgb(245, 211, 216);
