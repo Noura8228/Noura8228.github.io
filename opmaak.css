@@ -86,12 +86,8 @@ img {
   } /*opmaak tabel, afmetingen hokjes.*/
 
   footer{
-    background-color: #7e9680;
-    text-align: right;
-    font-family: 'Courier New', Courier, monospace;
-    text-decoration: rgb(245, 211, 216);
-    color: rgb(245, 211, 216); 
+    background-color: #7e9680;/*achtergrond kleur*/
+    text-align: right; /*aan welke kant de tekst staat*/
+    font-family: 'Courier New', Courier, monospace; /*lettertype*/
+    color: rgb(245, 211, 216); /*kleur van tekst*/
   }
-.footer{
-  color: rgb(245, 211, 216);
-}
