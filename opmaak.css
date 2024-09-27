@@ -3,15 +3,15 @@ body {
     list-style-type: none;
     margin: 0px;
     padding: 20px;
-    scroll-behavior: auto;
+    scroll-behavior: auto; /*dit zorgt ervoor dat ik kan scrollen op mijn pagina*/
 }
 
 ul{ 
     list-style-type: none;
     padding: 2px;
     margin: 1px;
-    width: 100%;
-    background-color: #d87f81;
+    width: 100%;/*wijdte van mijn menubalk*/
+    background-color: #d87f81; /*achtergrondkleur van menubalk*/
     overflow: hidden;
 } /*menu opmaak*/
 
