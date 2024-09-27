@@ -10,7 +10,7 @@ ul{ /*menu*/
     list-style-type: none;
     padding: 2px;
     margin: 1px;
-    width: 100%;/*wijdte van mijn menubalk*/
+    width: 100%;/*breedte van mijn menubalk*/
     background-color: #d87f81; /*achtergrondkleur van menubalk*/
     overflow: hidden; 
 } /*menu opmaak*/
@@ -54,15 +54,15 @@ h3{
 } /*de opmaak van tekst met de class intro*/ 
 
 .resolutie{
-  width: 80%;
+  width: 80%; /*breedte van tekst*/
   border: #ae6378;
-  background-color: #d87f81;
-  color: pink;
-  font-family: 'Times New Roman', Times, serif;
+  background-color: #d87f81;/*achtergrond kleur box waar tekst in staat*/
+  color: pink; /*tekstkleur*/
+  font-family: 'Times New Roman', Times, serif;/*lettertype*/
   padding: 9px;
   margin-left: 2px;
-  border-radius: 10px;
-  font-size: large;
+  border-radius: 10px; /*ronding van de box waar de tekst in staat*/
+  font-size: large; /*grootte tekst*/
 }/*opmaak tekst met class resolutie, alleen in dit geval hetzelfde als bij intro*/
 
 
@@ -71,7 +71,7 @@ img {
     width: 160px; /*hoe wijd het plaatje is*/
     image-rendering: auto; /*zorgt voor het renderen van mijn afbeeldingen*/
     border-radius: 10%; /*de "ronding" van mijn image*/ 
-} /*opmaak van mijn plaatjes*/
+} /*opmaak van mijn plaatjes van de indexpagina, de rest heb ik bewerkt in html zodat ik ze makkelijker en individueel kan aanpassen*/
 
   th, td {
     padding-top: 10px;
@@ -79,7 +79,7 @@ img {
     padding-left: 30px;
     padding-right: 40px;
     border-color: #79616f;
-  } /*opmaak tabel, afmetingen hokjes.*/
+  } /*opmaak tabel bij kleurmodellen, afmetingen hokjes en kleur van randen.*/
 
   footer{
     background-color: #7e9680;/*achtergrond kleur*/
