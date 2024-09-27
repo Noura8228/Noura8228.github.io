@@ -23,15 +23,13 @@ li a {
     padding: 14px 16px;
     background-color: #d87f81; /*achtergrondkleur van menubalk*/
     text-align: center; /*tekst staat in het midden van het vakje van menu*/
-    color: rgb(242, 208, 208); /*kleur van tekst bij menu*/
-    
+    color: rgb(242, 208, 208); /*kleur van tekst bij menu*/  
 }
 
-
 h1{
-    text-shadow: 3px 3px 4px #ce446b, 0 0 25px #9f283e, 0 0 10px #ae6378; /*de opmaak van mijn kopjes, met name schaduw*/
-    color: rgb(237, 155, 155);
-    text-align: center;
+    text-shadow: 3px 3px 4px #ce446b, 0 0 25px #9f283e, 0 0 10px #ae6378; /*de opmaak van mijn kopjes, dit zorgt voor het schaduw effect*/
+    color: rgb(237, 155, 155); /*kleur tekst h1*/
+    text-align: center; /*positie van h1 op pagina, in het midden*/
 }
 h3{
     color: #79616f;
@@ -48,7 +46,7 @@ h3{
     margin-left: 2px;
     border-radius: 10px;
     font-size: large;
-} /*de opmaak van tekst*/ 
+} /*de opmaak van tekst met de class intro*/ 
 
 .resolutie{
   width: 40%;
