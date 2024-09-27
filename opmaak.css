@@ -1,7 +1,7 @@
 body {
-  background-color: #eab595; 
+  background-color: #eab595; /*achtergrond kleur van site*/
     list-style-type: none;
-    margin: 0;
+    margin: 0px;
     padding: 20px;
     scroll-behavior: auto;
 }
