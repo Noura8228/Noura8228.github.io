@@ -6,7 +6,7 @@ body {
     scroll-behavior: auto; /*dit zorgt ervoor dat ik kan scrollen op mijn pagina*/
 }
 
-ul{ 
+ul{ /*menu*/
     list-style-type: none;
     padding: 2px;
     margin: 1px;
@@ -15,10 +15,10 @@ ul{
     overflow: hidden; 
 } /*menu opmaak*/
 
-li{
+li{/*menu*/
     float: left; /*tekst van menu staat links*/
 }
-li a {
+li a {/*menu*/
     display: block;
     padding: 14px 16px;
     background-color: #d87f81; /*achtergrondkleur van menubalk*/
@@ -26,9 +26,11 @@ li a {
     text-align: center; /*tekst staat in het midden van het vakje van menu*/
     color: rgb(242, 208, 208); /*kleur van tekst bij menu*/  
 }
+
 li a:hover{ 
   background-color: #9f283e;/*als je met je muis op menu gaat ktijgt het kleur*/
 }
+
 h1{
     text-shadow: 3px 3px 4px #ce446b, 0 0 25px #9f283e, 0 0 10px #ae6378; /*de opmaak van mijn kopjes, dit zorgt voor het schaduw effect*/
     color: rgb(237, 155, 155); /*kleur tekst h1*/
@@ -52,7 +54,7 @@ h3{
 } /*de opmaak van tekst met de class intro*/ 
 
 .resolutie{
-  width: 40%;
+  width: 80%;
   border: #ae6378;
   background-color: #d87f81;
   color: pink;
@@ -61,13 +63,13 @@ h3{
   margin-left: 2px;
   border-radius: 10px;
   font-size: large;
-}
+}/*opmaak tekst met class resolutie, alleen in dit geval hetzelfde als bij intro*/
 
 
 img {
-    height: 160px;
-    width: 160px;
-    image-rendering: auto;
+    height: 160px; /*hoe hoog het plaatje*/
+    width: 160px; /*hoe wijd het plaatje is*/
+    image-rendering: auto; /*zorgt voor het renderen van mijn afbeeldingen*/
     border-radius: 10%; /*de "ronding" van mijn image*/ 
 } /*opmaak van mijn plaatjes*/
 
