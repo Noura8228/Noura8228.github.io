@@ -73,11 +73,6 @@ img {
     border-radius: 10%; /*de "ronding" van mijn image*/ 
 } /*opmaak van mijn plaatjes*/
 
-
-  tr {
-    border-bottom: 5px solid #79616f;
-    border-color: #79616f;
-  }
   th, td {
     padding-top: 10px;
     padding-bottom: 20px;
