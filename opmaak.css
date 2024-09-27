@@ -51,6 +51,17 @@ h3{
     font-size: large;
 } /*de opmaak van tekst*/ 
 
+.resolutie{
+  width: 40%;
+  border: #ae6378;
+  background-color: #d87f81;
+  color: pink;
+  font-family: 'Times New Roman', Times, serif;
+  padding: 9px;
+  margin-left: 2px;
+  border-radius: 10px;
+  font-size: large;
+}
 
 
 img {
