@@ -87,6 +87,7 @@ li a:hover{
     text-align: right;
     font-family: 'Courier New', Courier, monospace;
     text-decoration: none;
+    color: rgb(245, 211, 216); 
   }
 .footer{
   color: rgb(245, 211, 216);
