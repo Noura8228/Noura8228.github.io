@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+<title>Kleurmodellen</title><!--Dit is de tekst zichtbaar bovenin mijn scherm bij het openstaande tablad-->
+
+<link rel="stylesheet" href="opmaak.css"><!--dit is de link naar de opmaak/css van mijn website--> 
+    
+    </head>
+
+   <body>
+  
+    <ul> 
+        <li><a href="index.html">Home</a></li>
+        <li><a href="binairstelsel.html">Binair stelsel</a></li>
+        <li><a href="kleurmodellen.html">Kleurmodellen</a></li>
+        <li><a href="compressie.html">Compressie</a></li>
+        <li><a href="bitmapenvectorafbeeldingen.html">Bitmap- en vectorafbeeldingen</a></li>
+    </ul><!--dit is mijn menu/navigatie balk-->
+
+<h1>Kleurmodellen</h1><!--titel pagina-->
+
+<h3>Wat zijn kleurmodellen?</h3>
+
+<p class="intro"> Een kleurmodel is een manier om een kleur numeriek te specificeren of te beschrijven.
+De twee soorten en belanrijkste kleurmodellen die ik ga bespreken zijn het rgb-model en het cmy-model. 
+Achter de lens van bijvoorbeeld de camera van je telefoon zit een beeldcensor. Dit wordt ook wel 'CCD' genoemd. 
+CCD staat voor 'charged-coupled-device'. De CCD bestaat uit miljoenen lichtgevoelige fotocellen. 
+Op het moment dat je een foto maakt, wordt er een momentopname gemaakt van het invallende licht. Dit wordt omgezet in elektrische signalen.
+Digitale afbeeldingen bestaan uit pixels. Het woord 'pixel' is een combinatie tussen de woorden picture en element. 
+Om het invallende licht op de camerasensor digitaal te kunnen opslaan in pixels, wordt er gebruik gemaakt van kleurmodellen.
+</p>
+
+<h3>Resolutie</h3>
+
+<p class="resolutie"> Het aantal pixels verschilt, hoe meer pixels een apparaat heeft hoe beter het beeldkwaliteit is. Het aantal pixels van een beeldscherm, afbeelding of een gerpint oppervlak 
+wordt resolutie genoemd. Bij het plaatje hieronder zie je dat de smiley links boven de laagste resolutie heeft, dat zie je aan de slechtste kwaliteit. De smiley rechts onder heeft de hoogste
+resolutie, dat zie je omdat deze de beste kwaliteit heeft.
+</p>
+
+<img src="/afbeeldingen/resolutie.jpg" alt="resolutie" style="width: auto; height: 300px; border-radius: 0%;">
+
+<h3>Het RGB-model</h3>
+
+<p class="intro"> RGB staat voor Red, Green, Blue. Dit model wordt voornamelijk gebruikt om kleuren digitaal weer te geven op een scherm.
+        Als je inzoomt op de pixels van een digitale foto/scherm zie je rode, groene en blauwe lampjes. Elke pixel bestaat uit de drie verschillende lampjes. Één lampje wordt een subpixel genoemd.
+        Aan de hand van de lampjes kun je verschillende soorten kleuren vormen. Door de lampjes zwakker en helderder te laten branden. De kleuren rood, groen en blauw zijn de basis kleuren
+        om andere kleuren te vormen. Het mengen van kleuren bij het RGB-model is anders dan bij verf. Hieronder heb ik een tabel gemaakt met een overzicht van het mengen van kleuren bij het RGB-model. 
+</p>
+
+<table> <!--tabel over mengen rgb-model-->
+        <tr> <!--De bovenste rij van mij tabel-->
+            <th>Kleur 1  </th>
+            <th>Kleur 2  </th>
+            <th>Kleur 3  </th>
+            <th>Nieuwe kleur</th>
+        </tr>
+        <tr> <!--tweede rij-->
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>Zwart</td>
+        </tr>
+        <tr> <!--derde rij-->
+            <td>Rood</td>
+            <td>Groen</td>
+            <td>Blauw</td>
+            <td>Wit</td>
+        </tr>
+        <tr><!--vierde rij-->
+            <td>Rood</td>
+            <td>Groen</td>
+            <td>-</td>
+            <td>Geel</td>
+        </tr>
+        <tr><!--vijfde rij-->
+            <td>Rood</td>
+            <td>Blauw</td>
+            <td>-</td>
+            <td>Paars</td>
+        </tr>
+        <tr> <!--zesde rij-->
+            <td>Blauw</td>
+            <td>Groen</td>
+            <td>-</td>
+            <td>Turquoise</td>
+        </tr>
+</table>
+
+<p class="intro"> 
+        Het RGB-model is gebaseerd op een zwarte achtergrond, als je scherm zwart is staan de lampjes uit. Als alle kleuren tegelijk aanstaan, dan ontstaat de kleur wit.
+        Je kan op je computer een kleur aangeven met een decimaal getal van 0 tot en met 255, een byte. 
+</p>
+
+   <img src="/afbeeldingen/mariorgbmodel.png" alt="voorbeeldbytergb" style="width: auto; height: 250px; border-radius: 0%;"> 
+   <img src="/afbeeldingen/pixelscloseup.jpg" alt="pixelscloseup" style="width: auto; height: 250px; border-radius: 0%;">
+   <img src="/afbeeldingen/CMYK-RGB.jpg" alt="CMYK/RGB" style="width: auto; height: 250px; border-radius: 0%; padding: 5;">
+    
+ <h3>Het CMY-model</h3>
+
+    <p class="intro">CMY staat voor Cyaan, Magenta, Yellow. Bij CMYK staat voor Cyaan, Magenta, Yellow, Key. Inplaats van een zwarte achtergrond, zoals bij het RGB-model, is het CMY-model gebaseerd op een witte achtergrond.
+        Dit model wordt gebruikt bij printers om bestanden te printen(op een witte achtergrond). Als je de kleuren cyaan, magenta en geel mengt ontstaat er geen zwart maar de kleur donkergrijs. 
+        Om er toch voor te zorgen dan zwart gemaakt kan worden, wordt de kleur zwart toegevoegd. Zo ontstaat het CMYK-model. De K staat voor Key(of black). </p>
+   
+<h3>Het RGB-model omzetten in het CMY-model</h3>
+
+    <p class="intro">Om de RGB-code om te zetten in een CMY-code moet je de formule CMY=(255-R, 255-G, 255-B) toepassen.</p>
+
+    <footer>
+        <p>Maker: Noura Abed</p>
+    </footer><!--onderste deel webpagina-->
+
+    </body>
+
+</html>
