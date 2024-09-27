@@ -26,7 +26,9 @@ li a {
     text-align: center; /*tekst staat in het midden van het vakje van menu*/
     color: rgb(242, 208, 208); /*kleur van tekst bij menu*/  
 }
-
+li a:hover{ 
+  background-color: #9f283e;/*als je met je muis op menu gaat ktijgt het kleur*/
+}
 h1{
     text-shadow: 3px 3px 4px #ce446b, 0 0 25px #9f283e, 0 0 10px #ae6378; /*de opmaak van mijn kopjes, dit zorgt voor het schaduw effect*/
     color: rgb(237, 155, 155); /*kleur tekst h1*/
@@ -68,9 +70,7 @@ img {
     image-rendering: auto;
     border-radius: 10%; /*de "ronding" van mijn image*/ 
 } /*opmaak van mijn plaatjes*/
-li a:hover{ 
-    background-color: #9f283e;/*als je met je muis op menu gaat ktijgt het kleur*/
-}
+
 
   tr {
     border-bottom: 5px solid #79616f;
