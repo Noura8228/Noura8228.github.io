@@ -12,19 +12,19 @@ ul{
     margin: 1px;
     width: 100%;/*wijdte van mijn menubalk*/
     background-color: #d87f81; /*achtergrondkleur van menubalk*/
-    overflow: hidden;
+    overflow: hidden; 
 } /*menu opmaak*/
 
 li{
-    float: left;
+    float: left; /*tekst van menu staat links*/
 }
 li a {
     display: block;
     padding: 14px 16px;
-    background-color: #d87f81;
-    text-decoration: pink;
-    text-align: center;
-    color: rgb(242, 208, 208);
+    background-color: #d87f81; /*achtergrondkleur van menubalk*/
+    text-decoration: rgb(216, 5, 40); 
+    text-align: center; /*tekst staat in het midden van het vakje van menu*/
+    color: rgb(242, 208, 208); /*kleur van tekst bij menu*/
     
 }
 
